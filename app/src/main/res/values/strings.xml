@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">GithubAPI</string>
+
+    //--------------------------------- Search -----------------------------------------------------
+    <string name="search_edit_text_hint">Input user name</string>
+    <string name="search_button_find">find</string>
+    <string name="search_error_empty_name">name does not exist</string>
+    <string name="search_message_dialog">Searching...</string>
+
+    //--------------------------------- Profile
+    -----------------------------------------------------
+    <string name="profile_title_rep_list">Repositories list:</string>
+    <string name="profile_name">Name:</string>
+    <string name="profile_company">Company:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_followers">Followers:</string>
+    <string name="profile_following">Following:</string>
+    <string name="profile_gists">Gists:</string>
+    <string name="profile_repos">Repositories:</string>
+    <string name="profile_menu_open_in_browser">Open in browser</string>
+    <string name="profile_menu_save">Save</string>
+    <string name="profile_menu_share">Share</string>
+    <string name="profile_empty_list">No repositories</string>
+    <string name="profile_share_title">Share link</string>
+    <string name="profile_url" translatable="false">https://github.com/</string>
+    <string name="profile_toast_save">Saved</string>
+
+
+</resources>

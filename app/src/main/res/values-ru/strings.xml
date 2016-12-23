@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">GithubAPI</string>
+
+    //--------------------------------- Search -----------------------------------------------------
+    <string name="search_edit_text_hint">Введите имя пользователя</string>
+    <string name="search_button_find">Найти</string>
+    <string name="search_error_empty_name">имя не существует</string>
+    <string name="search_message_dialog">Поиск...</string>
+
+    //--------------------------------- Profile
+    -----------------------------------------------------
+    <string name="profile_title_rep_list">Список хранилищ:</string>
+    <string name="profile_name">Имя:</string>
+    <string name="profile_company">Компания:</string>
+    <string name="profile_email">Почта:</string>
+    <string name="profile_followers">Следящие:</string>
+    <string name="profile_following">Следует:</string>
+    <string name="profile_gists">Сущности:</string>
+    <string name="profile_repos">Хранилища:</string>
+    <string name="profile_menu_open_in_browser">Открыть в браузере</string>
+    <string name="profile_menu_save">Сохранить</string>
+    <string name="profile_menu_share">Поделиться</string>
+    <string name="profile_empty_list">Список пуст</string>
+    <string name="profile_share_title">Поделиться ссылкой</string>
+    <string name="profile_url" translatable="false">https://github.com/</string>
+    <string name="profile_toast_save">Сохранено</string>
+
+
+</resources>
